@@ -13,7 +13,7 @@
     "babel-preset-react": "^6.24.1",
     "classnames": "^2.2.6",
     "downshift": "^3.2.10",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.23",
     "pi-web-style-terracotta": "git+ssh://git@github.com/Sonos-Inc/pi-web-style-terracotta.git",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
