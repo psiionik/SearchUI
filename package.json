@@ -17,7 +17,7 @@
     "pi-web-style-terracotta": "git+ssh://git@github.com/Sonos-Inc/pi-web-style-terracotta.git",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "typescript": "3.5.1"
   },
   "scripts": {
@@ -44,6 +44,6 @@
   "devDependencies": {
     "@types/material-ui": "^0.21.6",
     "bulma": "^0.7.5",
-    "parcel": "^1.12.3"
+    "parcel": "^2.16.4"
   }
 }
